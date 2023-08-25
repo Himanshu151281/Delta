@@ -1,2 +1,2 @@
 # Delta
-Git &amp; Github class
+Git &amp; Github class.
